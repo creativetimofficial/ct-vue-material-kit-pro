@@ -1,6 +1,6 @@
 # [Vue Material Kit PRO](https://demos.creative-tim.com/vue-material-kit-pro) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Vue%20Material%20Kit%20Pro-%20Premium%20Vue%20Material%20Kit%20for%20Vue.js%20https%3A//www.creative-tim.com/product/vue-material-kit-pro%20%23vuejs%20%23kit%20%23pro%20%23vuejs%20%23vue-material%20%20%40creativetim)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-material-kit-pro.svg)](https://github.com/creativetimofficial/ct-vue-material-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-material-kit-pro.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-vue-material-kit-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-material-kit-pro.svg)](https://github.com/creativetimofficial/ct-vue-material-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-material-kit-pro.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-vue-material-kit-pro/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Product Gif](https://s3.amazonaws.com/creativetim_bucket/products/139/original/opt_mkp_vue_thumbnail.jpg)
 
