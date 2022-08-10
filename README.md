@@ -1,221 +1,167 @@
-# [Vue Material Kit PRO](https://demos.creative-tim.com/vue-material-kit-pro) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Vue%20Material%20Kit%20Pro-%20Premium%20Vue%20Material%20Kit%20for%20Vue.js%20https%3A//www.creative-tim.com/product/vue-material-kit-pro%20%23vuejs%20%23kit%20%23pro%20%23vuejs%20%23vue-material%20%20%40creativetim)
+# [Vue Material Kit 2 PRO](http://demos.creative-tim.com/vue-material-kit-pro/#/?ref=readme-vmkp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vue-material-kit-pro&text=Check%20Vue%20Material%20kit%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#vue%20https://www.creative-tim.com/product/vue-material-kit-pro)
 
-![version](https://img.shields.io/badge/version-1.4.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-material-kit-pro.svg)](https://github.com/creativetimofficial/ct-vue-material-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-material-kit-pro.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-vue-material-kit-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-2.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-material-kit-pro.svg)](https://github.com/creativetimofficial/ct-vue-material-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-material-kit-pro.svg)](https://github.com/creativetimofficial/ct-vue-material-kit-pro/issues?q=is%3Aissue+is%3Aclosed)
 
-![Product Gif](https://s3.amazonaws.com/creativetim_bucket/products/139/original/opt_mkp_vue_thumbnail.jpg)
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/139/original/vue-material-kit-2-pro.jpg)
 
+Vue Material Kit 2 PRO is our newest premium VueJS Design System. Its amazing design is inspired by Material Design and contains all the components you need for your development. If you’re a developer looking to create good-looking websites, rich with features, and highly customisable, here is your match.
 
-Vue Material Kit PRO is a beautiful resource built over [Vue Material](https://vuematerial.io/) and [Vue.js](https://vuejs.org/). It will help you get started developing kits in no time. Vue Material Kit PRO is the official Vuejs version of the Original [Material Kit PRO](https://www.creative-tim.com/product/material-kit-pro). Using the Kit is pretty simple but requires basic knowledge of Javascript, [Vue.js](https://vuejs.org/v2/guide/) and [Vue-Router](https://router.vuejs.org/en/).
+**Fully Coded Elements**
 
-## Getting Started
-- Install Nodejs from [Nodejs Official Page](https://nodejs.org/en/)
-- Open your terminal
-- Navigate to the project
-- Run `npm install --legacy-peer-deps` or `yarn install` if you use [Yarn](https://yarnpkg.com/en/)
-- Run `npm run dev` or `yarn serve` to start a local development server
-- A new tab will be opened in your browser
+Vue Material Kit 2 PRO is built with over 100 frontend individual elements, like buttons, inputs, navbars, alerts or cards, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using sass files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
 
-You can also run additional npm tasks such as
-- `npm run build` to build your app for production
-- `npm run lint` to run linting.
+This Premium VueJS 3 & Bootstrap 5 template is coming with pre-built design blocks, so the development process is seamless,
+switching from our pages to the real website is very easy to be done.
+View [all components here.](https://www.creative-tim.com/learning-lab/vue/alerts/material-kit/)
 
-## Vue Material
-Vue Material is developed exactly according to Material Design spec. Every component is hand crafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
+**Documentation built by Developers**
 
+Each element is well presented in very complex documentation.
+You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/vue/overview/material-kit/).
 
-## Vue-cli
+**Example Pages**
 
-We used the latest 3.x [Vue CLI](https://github.com/vuejs/vue-cli) which aims to reduce project configuration
-to as little as possible. Almost everything is inside `package.json` + some other related files such as
-`.babel.config.js`, `.eslintrc.js` and `.postcss.config.js`
+If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 
+View [example pages here.](https://demos.creative-tim.com/vue-material-kit-pro/)
 
-### Autoprefixer
+**HELPFUL LINKS**
 
-Vue Material Kit PRO uses Autoprefixer (included in our build process) to automatically add vendor prefixes to some CSS properties at build time. Doing so saves us time and code by allowing us to write key parts of our CSS a single time while eliminating the need for vendor mixins.
-
-### Webpack
-
-Vue CLI 3 is powered by Webpack and it's great ecosystem. Under the hood, Vue CLI compiles .vue files into javascript and transforms them into something that is understood by the browser with the help of webpack. You can customize the webpack config quite easily with Vue CLI. For more info check their docs;
-
-### Babel
-
-Vue CLI uses Babel to convert new Javascript features to features that are understood by the browser. Note that there is `.browserlistrc` file in the project where you can specify what target browser you aim for. This way, babel knows what features to convert and what features to not convert. Having a modern browser support (e.g excluding Internet Explorer) will most likely result in a small javascript bundle.
-
-### Eslint
-
-Vue CLI comes along with eslint. You can configure it in the `.eslintrc.js` file. Eslint will provide warnings and errors and try to enforce best practices for the Javascript code. An important note is that you can fix warnings with `npm run lint --fix` command.
+- View [Github Repository](https://github.com/creativetimofficial/ct-vue-material-kit-pro)
+- Check [FAQ Page](https://www.creative-tim.com/faq)
 
 #### Special thanks
-During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
-- [Vue Material](https://vuematerial.io/) for the wonderful framework
 
+During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
+
+- [VueJS 3](https://vuejs.org/) - An approachable, performant and versatile framework for building web user interfaces.
+- [Bootstrap 5](https://getbootstrap.com/) - Powerful, extensible, and feature-packed frontend toolkit.
+- [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
+- [Choices JS](https://joshuajohnson.co.uk/Choices/) - A nice plugin that select elements with intuitive multiselection and searching but also for managing tags.
+- [Vue Form Slider](https://vueform.com/) - A comprehensive form builder for Vue.js that makes form development a breeze.
+- [Pinia](https://pinia.vuejs.org/) - The Vue Store that you will enjoy using.
+- [PrismJS](https://prismjs.com/) - A lightweight and extensible syntax highlighter.
+- [TypedJS](https://mattboldt.com/demos/typed-js/) - A JavaScript Typing Animation Library.
+- [Vue Clipboard 3](https://github.com/JamieCurnow/vue-clipboard3) - Easily copy to clipboard in Vue 3.
+- [Vue Count To](http://panjiachen.github.io/countTo/demo/) - A dependency-free, lightweight vue component for count up.
+- [Vue Flatpickr Component](https://ankurk91.github.io/vue-flatpickr-component/) - Vue.js component for Flatpickr date-time picker.
 
 Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
+- [Versions](#versions)
+- [Demo](#demo)
+- [Quick Start](#quick-start)
+- [Documentation](#documentation)
+- [File Structure](#file-structure)
+- [Browser Support](#browser-support)
+- [Resources](#resources)
+- [Reporting Issues](#reporting-issues)
+- [Technical Support or Questions](#technical-support-or-questions)
+- [Licensing](#licensing)
+- [Useful Links](#useful-links)
 
 ## Versions
 
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-dashboard-2-pro?ref=readme-vmd2p)
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-pro)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-pro-react)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/vuejs.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-kit-pro)
+| VueJS |
+| ----- |
 
-
- Vue | React | HTML |
-| --- | --- | --- |
-| [![Vue Material Kit Pro](https://s3.amazonaws.com/creativetim_bucket/products/139/original/opt_mkp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-kit-pro) | [![Material Kit Pro React](https://s3.amazonaws.com/creativetim_bucket/products/89/original/opt_mkp_react_thumbnail.jpg)](https://www.creative-tim.com/product/material-kit-pro-react)  | [![Material Kit Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/46/original/opt_mkp_thumbnail.jpg)](https://www.creative-tim.com/product/material-kit-pro)
+| [![Vue Material Dashboard 2 PRO](https://s3.amazonaws.com/creativetim_bucket/products/139/thumb/vue-material-kit-2-pro.jpg)](http://demos.creative-tim.com/vue-material-dashboard-2-pro/?ref=readme-vmd2p)
 
 ## Demo
 
-- [Presentation page](https://demos.creative-tim.com/vue-material-kit-pro/#/presentation)
-- [Sections pages](https://demos.creative-tim.com/vue-material-kit-pro/#/sections#headers)
-- [Examples pages](https://demos.creative-tim.com/vue-material-kit-pro/#/about-us)
+- [Sign in page](https://demos.creative-tim.com/vue-material-kit-pro/#/authentication/sign-in/basic?ref=readme-mkrp)
+- [Sign up page](https://demos.creative-tim.com/vue-material-kit-pro/#/authentication/sign-up/cover?ref=readme-mkrp)
+- [About us page](https://demos.creative-tim.com/vue-material-kit-pro/#/pages/company/about-us?ref=readme-mkrp)
+- [Pricing page](https://demos.creative-tim.com/vue-material-kit-pro/#/pages/company/pricing?ref=readme-mkrp)
+- [Page headers](https://demos.creative-tim.com/vue-material-kit-pro/#/sections/page-sections/page-headers?ref=readme-mkrp)
 
-[View More](https://demos.creative-tim.com/vue-material-kit-pro).
-
+[View More](https://demos.creative-tim.com/vue-material-kit-pro/#/?ref=readme-mkp).
 
 ## Quick start
 
 Quick start options:
 
-- Buy from [Creative Tim](https://www.creative-tim.com/product/vue-material-kit-pro)
+- Buy from [Creative Tim](https://www.creative-tim.com/product/vue-material-kit-pro?ref=readme-vmkp).
 
+## Terminal Commands
+
+1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
+2. Navigate to the root ./ directory of the product and run `yarn install` or `npm install` to install our local dependencies.
 
 ## Documentation
-The documentation for the Vue Material Kit Pro is hosted at our [website](https://demos.creative-tim.com/vue-material-kit-pro/documentation).
 
+The documentation for the Material Kit is hosted at our [website](https://www.creative-tim.com/learning-lab/vue/overview/material-kit/?ref=readme-vmkp).
 
-## File Structure
+### What's included
 
 Within the download you'll find the following directories and files:
 
 ```
-vue-material-kit-pro
-├── README.md
-├── babel.config.js
-├── package.json
-├── postcss.config.js
-├── public
-│   └── index.html
-└── src
-    ├── API_KEY.js
-    ├── App.vue
-    ├── assets
-    │   ├── img
-    │   │   ├── example-pages
-    │   │   ├── examples
-    │   │   ├── faces
-    │   │   ├── section-components
-    │   │   └── sections
-    │   └── scss
-    │       ├── material-kit
-    │       │   ├── example-pages
-    │       │   ├── mixins
-    │       │   ├── plugins
-    │       │   └── sections
-    │       └── material-kit.scss
-    ├── components
-    │   ├── Badge.vue
-    │   ├── Collapse.vue
-    │   ├── Dropdown.vue
-    │   ├── FileUpload.vue
-    │   ├── InfoAreas.vue
-    │   ├── Modal.vue
-    │   ├── Pagination.vue
-    │   ├── Parallax.vue
-    │   ├── Slider.vue
-    │   ├── Tabs.vue
-    │   ├── cards
-    │   │   ├── BlogCard.vue
-    │   │   ├── FullBgCard.vue
-    │   │   ├── LoginCard.vue
-    │   │   ├── NavTabsCard.vue
-    │   │   ├── PricingCard.vue
-    │   │   ├── ProductCard.vue
-    │   │   ├── ProfileCard.vue
-    │   │   ├── RotatingCard.vue
-    │   │   └── TestimonialCard.vue
-    │   └── index.js
-    ├── layout
-    │   ├── MainFooter.vue
-    │   ├── MainNavbar.vue
-    │   └── MobileMenu.vue
-    ├── main.js
-    ├── plugins
-    │   ├── basicMixins.js
-    │   ├── globalComponents.js
-    │   ├── globalDirectives.js
-    │   ├── globalMixins.js
+vue-material-kit-2-pro
+    ├── public
+    ├── src
+    │   ├── assets
+    │   │   ├── css
+    │   │   ├── fonts
+    │   │   ├── img
+    │   │   ├── js
+    │   │   └── scss
+    │   ├── components
+    │   │   ├── MaterialAlert.vue
+    │   │   ├── MaterialAvatar.vue
+    │   │   ├── MaterialBadge.vue
+    │   │   ├── MaterialButton.vue
+    │   │   ├── MaterialCheckbox.vue
+    │   │   ├── MaterialInput.vue
+    │   │   ├── MaterialPagination.vue
+    │   │   ├── MaterialPaginationItem.vue
+    │   │   ├── MaterialProgress.vue
+    │   │   ├── MaterialSnackbar.vue
+    │   │   ├── MaterialSocialButton.vue
+    │   │   ├── MaterialSwitch.vue
+    │   │   └── MaterialTextArea
+    │   ├── examples
+    │   │   ├── cards
+    │   │   ├── footers
+    │   │   ├── navbars
+    │   │   ├── tables
+    │   │   ├── Breadcrumbs.vue
+    │   │   └── Header.vue
+    │   ├── layouts
+    │   │   ├── sections
+    │   │   │    ├── attention-catchers
+    │   │   │    ├── components
+    │   │   │    ├── elements
+    │   │   │    ├── input-areas
+    │   │   │    ├── navigation
+    │   │   └──  └── page-sections
+    │   ├── router
+    │   ├── stores
+    │   ├── views
+    │   │   ├── Apps
+    │   │   ├── Authentication
+    │   │   ├── Blogs
+    │   │   ├── Company
+    │   │   ├── Extra
+    │   │   ├── LandingPages
+    │   │   ├── Presentation
+    │   │   └── Support
+    │   ├── App.vue
+    │   ├── main.js
     │   └── material-kit.js
-    ├── router.js
-    └── views
-        ├── Index.vue
-        ├── Presentation.vue
-        ├── Sections.vue
-        ├── components
-        │   ├── BasicElementsSection.vue
-        │   ├── CardsSection.vue
-        │   ├── CommentsSection.vue
-        │   ├── FooterSection.vue
-        │   ├── JavascriptComponentsSection.vue
-        │   ├── NavPillsSection.vue
-        │   ├── NavigationSection.vue
-        │   ├── NotificationsSection.vue
-        │   ├── PreFooterSection.vue
-        │   ├── SmallNavigationSection.vue
-        │   ├── TablesSection.vue
-        │   ├── TabsSection.vue
-        │   └── TypographyImagesSection.vue
-        ├── examples
-        │   ├── AboutUs.vue
-        │   ├── BlogPost.vue
-        │   ├── BlogPosts.vue
-        │   ├── ContactUs.vue
-        │   ├── Ecommerce.vue
-        │   ├── Error.vue
-        │   ├── Landing.vue
-        │   ├── Login.vue
-        │   ├── Pricing.vue
-        │   ├── Product.vue
-        │   ├── Profile.vue
-        │   ├── Shopping.vue
-        │   └── Signup.vue
-        ├── presentation
-        │   ├── Cards.vue
-        │   ├── Components.vue
-        │   ├── Content.vue
-        │   ├── Examples.vue
-        │   ├── Github.vue
-        │   ├── Introduction.vue
-        │   ├── Overview.vue
-        │   ├── Pricing.vue
-        │   └── Sections.vue
-        └── sections
-            ├── Blogs.vue
-            ├── ContactUs.vue
-            ├── Features.vue
-            ├── Headers.vue
-            ├── Pricing.vue
-            ├── Projects.vue
-            ├── Teams.vue
-            └── Testimonials.vue
+    ├── .eslintrc.json
+    ├── .gitignore
+    ├── CHANGELOG.md
+    ├── ISSUE_TEMPLATE.md
+    ├── index.html
+    ├── package.json
+    ├── README.md
+    └── vite.config.js
 ```
-
 
 ## Browser Support
 
@@ -223,44 +169,41 @@ At present, we officially aim to support the last two versions of the following 
 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
-
 ## Resources
-- [Live Preview](https://demos.creative-tim.com/vue-material-kit-pro)
-- Buy Page: https://www.creative-tim.com/product/vue-material-kit-pro
-- Documentation is [here](https://demos.creative-tim.com/vue-material-kit-pro/documentation)
-- License Agreement: https://www.creative-tim.com/license
-- Support: https://www.creative-tim.com/contact-us
+
+- [Live Preview](https://demos.creative-tim.com/vue-material-kit-pro/#/?ref=readme-vmkp)
+- [Buy Page](https://www.creative-tim.com/product/vue-material-kit-pro?ref=readme-vmkp)
+- Documentation is [here](https://www.creative-tim.com/learning-lab/vue/overview/material-kit/?ref=readme-vmkp)
+- [License Agreement](https://www.creative-tim.com/license?ref=readme-vmkp)
+- [Support](https://www.creative-tim.com/contact-us?ref=readme-vmkp)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-vue-material-kit-pro/issues)
-- Vue Material Kit - [demo](https://www.creative-tim.com/product/vue-material-kit?ref=github-mk-pro)
-- For Front End Development - [Material Kit Pro ](https://www.creative-tim.com/product/material-kit-pro?ref=github-md-pro)
 
 ## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Vue Material Kit PRO. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Vue Material Kit PRO. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
+We use GitHub Issues as the official bug tracker for the Vue Material Kit 2 PRO. Here are some advices for our users that want to report an issue:
+
+1. Make sure that you are using the latest version of the Vue Material Kit 2 PRO. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/vue-material-kit-pro?ref=readme-vmkp).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-vmkp) instead of opening an issue.
 
 ## Licensing
 
-- Copyright 2018 Creative Tim (https://www.creative-tim.com)
-- Creative Tim [license](https://www.creative-tim.com/license)
+- Copyright 2022 [Creative Tim](https://www.creative-tim.com?ref=readme-vmkp)
+- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-vmkp)
 
 ## Useful Links
 
-- [More products](https://www.creative-tim.com/bootstrap-themes) from Creative Tim
-
-- [Vue products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes) from Creative Tim
+- [More products](https://www.creative-tim.com/templates?ref=readme-vmkp) from Creative Tim
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-vmkp) from Creative Tim
 
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-vmkp) (earn money)
 
 ##### Social Media
 
