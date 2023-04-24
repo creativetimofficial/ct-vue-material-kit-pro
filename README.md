@@ -45,6 +45,7 @@ During the development of this dashboard, we have used many existing resources f
 - [Vue Clipboard 3](https://github.com/JamieCurnow/vue-clipboard3) - Easily copy to clipboard in Vue 3.
 - [Vue Count To](http://panjiachen.github.io/countTo/demo/) - A dependency-free, lightweight vue component for count up.
 - [Vue Flatpickr Component](https://ankurk91.github.io/vue-flatpickr-component/) - Vue.js component for Flatpickr date-time picker.
+- [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Vue Material Kit 2 PRO. You can use it to gain insights into your sources of traffic.
 
 Let us know your thoughts below. And good luck with development!
 
@@ -177,6 +178,7 @@ At present, we officially aim to support the last two versions of the following 
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-vmkp)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-vmkp)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-vue-material-kit-pro/issues)
+- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
 
 ## Reporting Issues
 
